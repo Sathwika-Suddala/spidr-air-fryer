@@ -18,7 +18,6 @@ This is a fictional product form built for Spidr Design as part of a coding chal
   - Email address
   - Guess the air fryer’s cost
   - Secret 16-digit Spidr PIN (formatted as ####-####-####-####)
-- Submit button styled like Spidr Design’s “We’re Hiring” button
 - Spidr-themed visuals inspired by the official site
 - Form logs to console on submission
 
@@ -29,7 +28,7 @@ This is a fictional product form built for Spidr Design as part of a coding chal
 ##  Run Locally
 
 ```bash
-git clone https://github.com/Sathwika-Suddala/spidr-air-fryer-form.git
-cd spidr-air-fryer-form
+git clone https://github.com/Sathwika-Suddala/spidr-air-fryer.git
+cd spidr-air-fryer
 npm install
 npm run dev

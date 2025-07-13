@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/spidr-air-fryer-form/',
+  base: '/spidr-air-fryer/',
   plugins: [react()],
 })

@@ -5,8 +5,8 @@ import "./App.css";
 function App() {
  return ( 
  <>
- <img src="/spidr-logo.png" alt="Spidr Logo" className="fixed-logo" />
- <img src="/spidr-title.png" alt="Spidr Title" className="fixed-title"/>
+ <img src="spidr-logo.png" alt="Spidr Logo" className="fixed-logo" />
+ <img src="spidr-title.png" alt="Spidr Title" className="fixed-title"/>
  <AirFryerInterestForm />
  </>
  );
