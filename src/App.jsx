@@ -5,8 +5,9 @@ import "./App.css";
 function App() {
  return ( 
  <>
- <img src="spidr-logo.png" alt="Spidr Logo" className="fixed-logo" />
- <img src="spidr-title.png" alt="Spidr Title" className="fixed-title"/>
+ <img src={`${import.meta.env.BASE_URL}spidr-logo.png`} alt="Spidr Logo" />
+
+img src={`${import.meta.env.BASE_URL}spidr-title.png`} alt="Spidr Title" />
  <AirFryerInterestForm />
  </>
  );
