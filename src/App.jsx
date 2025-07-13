@@ -7,7 +7,7 @@ function App() {
  <>
  <img src={`${import.meta.env.BASE_URL}spidr-logo.png`} alt="Spidr Logo" />
 
-img src={`${import.meta.env.BASE_URL}spidr-title.png`} alt="Spidr Title" />
+<img src={`${import.meta.env.BASE_URL}spidr-title.png`} alt="Spidr Title" />
  <AirFryerInterestForm />
  </>
  );
