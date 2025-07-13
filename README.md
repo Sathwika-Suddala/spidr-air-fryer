@@ -23,7 +23,7 @@ This is a fictional product form built for Spidr Design as part of a coding chal
 
 ##  Live Demo
 
- [Click here to view the live form](https://Sathwika-Suddala.github.io/spidr-air-fryer-form/)
+ [Click here to view the live form](https://Sathwika-Suddala.github.io/spidr-air-fryer/)
 
 ##  Run Locally
 
