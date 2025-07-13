@@ -1,12 +1,35 @@
-# React + Vite
+# Spidr Air Fryer Interest Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a fictional product form built for Spidr Design as part of a coding challenge. It collects fun user inputs related to a fictional air fryer in a branded, styled React interface.
 
-Currently, two official plugins are available:
+##  Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [React](https://react.dev)
+- [Vite](https://vitejs.dev/)
+- GitHub Pages (for deployment)
 
-## Expanding the ESLint configuration
+##  Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Clean and responsive UI
+- Fields:
+  - First name
+  - Last name
+  - Phone number (formatted)
+  - Email address
+  - Guess the air fryer’s cost
+  - Secret 16-digit Spidr PIN (formatted as ####-####-####-####)
+- Submit button styled like Spidr Design’s “We’re Hiring” button
+- Spidr-themed visuals inspired by the official site
+- Form logs to console on submission
+
+##  Live Demo
+
+ [Click here to view the live form](https://Sathwika-Suddala.github.io/spidr-air-fryer-form/)
+
+##  Run Locally
+
+```bash
+git clone https://github.com/Sathwika-Suddala/spidr-air-fryer-form.git
+cd spidr-air-fryer-form
+npm install
+npm run dev
