@@ -63,7 +63,7 @@ body{
 .submit-btn:hover {
   background-color: transparent;
   color:#00d9ff88;
-  border:#00d9ff88;
   box-shadow: 0 0 15px #00d9ff88;
+  border: 1px solid;
   transform: scale(1.03);
 }
