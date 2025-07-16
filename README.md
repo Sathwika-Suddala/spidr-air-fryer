@@ -21,10 +21,6 @@ This is a fictional product form built for Spidr Design as part of a coding chal
 - Spidr-themed visuals inspired by the official site
 - Form logs to console on submission
 
-##  Live Demo
-
- [Click here to view the live form](https://Sathwika-Suddala.github.io/spidr-air-fryer/)
-
 ##  Run Locally
 
 ```bash
