@@ -6,7 +6,7 @@ This is a fictional product form built for Spidr Design as part of a coding chal
 
 - [React](https://react.dev)
 - [Vite](https://vitejs.dev/)
-- GitHub Pages (for deployment)
+- AWS (for deployment)
 
 ##  Features
 
@@ -20,6 +20,10 @@ This is a fictional product form built for Spidr Design as part of a coding chal
   - Secret 16-digit Spidr PIN (formatted as ####-####-####-####)
 - Spidr-themed visuals inspired by the official site
 - Form logs to console on submission
+
+## Deployment
+
+-AWS- http://spidr-air-fryer-sathwika.s3-website-us-east-1.amazonaws.com/
 
 ##  Run Locally
 
